@@ -1,0 +1,1 @@
+{"data":[{"Gojek":"dfe2281c-22c7-41dd-98d8-1999f80bda86","Grab":"","Gofood":"https:\/\/api.gojekapi.com\/gofood\/consumer\/v2\/restaurants?location=","Gomart":"","Grabfood":"","Goride":"https:\/\/api.gojekapi.com\/gojek\/service_type\/1\/drivers\/nearby?location=","Gocar":"","Grabbike":"","menu":"","Home":"","Alamat":"com.shopee.id","Pesan":"","Message":""}]}
